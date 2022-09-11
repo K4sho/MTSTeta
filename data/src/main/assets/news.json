@@ -3,21 +3,39 @@
   "data": [
     {
       "id": 4,
-      "title": "Киберспорт",
+      "title": "В GOG стартовала новая распродажа со скидками до 90%",
       "poster": "url",
-      "content": "VP vs Outsiders"
+      "content": "В цифровом магазине GOG стартовала новая распродажа, в рамках которой игроки могут приобрести свыше 3500 тайтлов со скидками до 90%."
     },
     {
       "id": 1337,
-      "title": "Политика",
+      "title": "Впервые в цифровом формате: Сборник Mortal Kombat",
       "poster": "url",
-      "content": "Королева Великобритании"
+      "content": "В сервисе цифровой дистрибуции GOG.com вышел Mortal Kombat Trilogy — это первый официальный цифровой релиз классического сборника файтингов. В настоящий момент приобрести переиздание игры можно со скидкой в 11%. Цена составляет 509 рублей. Оригинальный релиз Mortal Kombat Trilogy состоялся в 1996 году на PlayStation, ПК, Sega Saturn и Nintendo 64. Проект предлагает контент из первых трех Mortal Kombat."
     },
     {
       "id": 2342,
-      "title": "Футбол",
+      "title": "Punjab Govt scraps Guardians of Governance scheme",
       "poster": "url",
-      "content": "Реал Мадрид - Челси"
+      "content": "The state government today put to an end the Guardians of Governance (GoG) scheme, which was started with much fanfare by the former Chief Minister Capt Amarinder Singh. With this, about 4,300 ex-servicemen will be rendered jobless.\n\nA decision to wind up the scheme was taken up at the Cabinet meeting today. This happened just two days after the state government had announced to give them the task of verifying the suspicious blue ration cards, which allow the card holders to get free wheat under the National Food Security Act.\n\nHowever, Food Minister Lal Chand Kataruchak told The Tribune that this work would now be done by the local administration.\n\n“There are several other ways to verify the ration cards and weed out the bogus ones. We will use Aadhaar linkage to purchases /income tax returns/bank accounts to get data on unauthorised free ration card holders,” he said.\n\nOfficial sources say that the decision to scrap the scheme was taken in view of several complaints against the GoGs, especially in the rural areas, where they were alleged to be involved in local politics. “The state government was paying Rs 72 crore per annum as honorarium to these GoGs, and for a year they were not doing any work. It was only financially prudent to do away with this programme,” Chief Secretary Vijay Kumar Janjua told The Tribune"
+    },
+    {
+      "id": 2,
+      "title": "Издатель S.T.A.L.K.E.R. 2 начал отменять предзаказы на игру",
+      "poster": "url",
+      "content": "В сети появилась информация, что игроки, оформившие предзаказ S.T.A.L.K.E.R. 2 в Microsoft Store, начали получать уведомления об отмене покупки. Соответствующая информация появилась в социальных сетях.\n\nСообщения об отмене предзаказа начали поступать 7 сентября. По словам представителей GSC Game World, решение было принято издателем Microsoft и является стандартной практикой. Оно связано с переносом выхода игры на 2023 год без конкретной даты релиза. Представители студии подчеркнули, что позднее можно будет повторно оформить предзаказ, когда будет больше конкретики о выходе шутера.\n\nS.T.A.L.K.E.R. 2 выйдет в сервисе GOG и не будет иметь антипиратской защиты. Ранее студия GSC Game World прекратила продажу всех своих игр на территории России, а также отказалась от русскоязычного дубляжа в шутере."
+    },
+    {
+      "id": 3,
+      "title": "В сервисе GOG началась раздача первых двух частей Syberia",
+      "poster": "url",
+      "content": "Сервис цифровой дистрибуции GOG нередко устраивает раздачи игр. В июне магазин предлагал всем желающим обзавестись копией научно-фантастического боевика Hellpoint, а сейчас на площадке стали бесплатными две части Syberia."
+    },
+    {
+      "id": 5,
+      "title": "Зеленский заявил об отключении света в ряде областей Украины",
+      "poster": "url",
+      "content": "«Полное отключение электроэнергии в Харьковской и Донецкой областях, частичное — в Запорожской, Днепропетровской и Сумской областях», — написал он"
     }
   ]
 }

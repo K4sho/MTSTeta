@@ -1,6 +1,5 @@
 package ru.mts.data.news.repository
 
-import android.util.Log
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow
@@ -31,13 +30,13 @@ class NewsRepository(
 
     suspend fun syncNews() {
         val res = newsRemoteDataSource.getNews()
-        Log.d("NewsTest", "response mock: $res")
         res
             .doOnSuccess {
                 it.data?.toNewsEntity()?.let { news ->
                     newsLocalDataSource.fillNews(news)
                 }
-            }.doOnError {
+            }
+            .doOnError {
                 Timber.tag("NewsRepository").d("Sync news failed")
             }
     }
@@ -53,7 +52,7 @@ class NewsRepository(
         )
     }
 
-    fun List<NewsItemResponse>.toNewsEntity() = this.map { item ->
+    private fun List<NewsItemResponse>.toNewsEntity() = this.map { item ->
         NewsEntity(
             id = item.id,
             title = item.title ?: "",
