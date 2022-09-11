@@ -1,0 +1,23 @@
+{
+  "status": "OK",
+  "data": [
+    {
+      "id": 4,
+      "title": "Киберспорт",
+      "poster": "url",
+      "content": "VP vs Outsiders"
+    },
+    {
+      "id": 1337,
+      "title": "Политика",
+      "poster": "url",
+      "content": "Королева Великобритании"
+    },
+    {
+      "id": 2342,
+      "title": "Футбол",
+      "poster": "url",
+      "content": "Реал Мадрид - Челси"
+    }
+  ]
+}
